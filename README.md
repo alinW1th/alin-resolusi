@@ -1,2 +1,2 @@
-# alin-resolusi
+# WAF-resolusi
 Repository for planing 
