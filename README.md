@@ -1,2 +1,2 @@
 # WAF-resolusi
-Repository for planing 
+Repository for planing We Are Famile Channel
